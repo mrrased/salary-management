@@ -1,0 +1,17 @@
+.Employee-style{
+    background-color: slategray;
+
+}
+.Employee-container{
+    display: flex;
+    background-color: slategray;
+}
+.employee-List{
+    width: 70%;
+    border-right: 1px solid white;
+    margin-left: 50px;
+}
+.employee-view{
+    position: sticky;
+    top: 10px;
+}

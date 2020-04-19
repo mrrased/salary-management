@@ -1,0 +1,30 @@
+.company-style{
+    display: flex;
+    
+}
+.company-style img{
+    height: 200px;
+    width: 230px;
+    border-radius: 50%;
+    margin-right: 15px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    border-right: 2px solid red;
+    
+}
+.company-style:hover{
+    border-bottom: 1px solid white;
+
+    
+}
+.button-style{
+    background-color: saddlebrown;
+    border: none;
+    padding-right: 15px;
+    padding-left: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-top: 15px;
+    font-weight: 600;
+    cursor: pointer;
+}

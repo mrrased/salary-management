@@ -1,0 +1,17 @@
+.Heder-style{
+    height: 200px;
+    background-image: linear-gradient(30deg, #310A09, #F7362D);
+    
+}
+.Heder-style a{
+    color: white;
+    line-height: 200px;
+    margin-left: 360px;
+    font-size: 60px;
+    font-weight: 600;
+    
+}
+a {
+    text-decoration: none;
+}
+
