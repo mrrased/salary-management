@@ -12,7 +12,6 @@ const shuffle = a => {
         [a[i - 1], a[j]] = [a[j], a[i - 1]];
     }
 }
-
-shuffle(fakeData);
+;
 
 export default fakeData;
